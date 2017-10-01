@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <item type="id" name="toolbar_main">false</item>
+    <item type="id" name="toolbar_four_square">false</item>
+    <item type="id" name="toolbar_google_places">false</item>
+
+
+    <item name="recycler_view_four_square" type="id" />
+    <item name="recycler_view_google_places" type="id" />
+    <item name="progress_bar_four_square" type="id" />
+    <item name="progress_bar_google_places" type="id" />
+
+</resources>

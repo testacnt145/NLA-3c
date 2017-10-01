@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Nearby Location</string>
+    <string name="title_main_activity">Nearby Location</string>
+    <string name="title_four_square_activity">Four Square</string>
+    <string name="title_google_places_activity">Google Places</string>
+
+    <string name="project_detail">Project includes\n
+        MVP\n
+        Dagger2\n
+        Retrofit\n
+        Json Moshi Parsing\n
+        Recycler View\n
+        Presenter Test Case\n
+    </string>
+
+
+    <string name="btn_foursquare">Four Square</string>
+    <string name="btn_google_places">Google Places</string>
+
+    <!-- network -->
+    <string name="network_connectivity_error">Connectivity Error</string>
+    <string name="network_not_available">Internet not available</string>
+    <string name="no_response_from_server">No response from server. Please try again.</string>
+
+</resources>
